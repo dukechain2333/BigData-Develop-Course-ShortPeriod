@@ -1,2 +1,2 @@
-# BigData_Develop-Course-ShortPeriod
+# BigData-Develop-Course-ShortPeriod
 This is the reopository for BigData Develop Course in short period.
